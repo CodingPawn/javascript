@@ -9,6 +9,6 @@ function numberMatching(input) {
         console.log(randomNumber);
         console.log("The number doesn't match!")
     }
-};
+}
 
-numberMatching([5]);
+numberMatching(['5']);
